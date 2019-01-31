@@ -1,0 +1,10 @@
+c:\users\dgraveli\documents\visual studio 2010\Projects\OrganizationAutomation\OrganizationAutomation\bin\Debug\OrganizationAutomation.dll
+c:\users\dgraveli\documents\visual studio 2010\Projects\OrganizationAutomation\OrganizationAutomation\bin\Debug\OrganizationAutomation.pdb
+c:\users\dgraveli\documents\visual studio 2010\Projects\OrganizationAutomation\OrganizationAutomation\bin\Debug\RightNow.AddIns.AddInViews.dll
+c:\users\dgraveli\documents\visual studio 2010\Projects\OrganizationAutomation\OrganizationAutomation\bin\Debug\RightNow.AddIns.AddInViews.xml
+c:\users\dgraveli\documents\visual studio 2010\Projects\OrganizationAutomation\OrganizationAutomation\obj\Debug\OrganizationAutomation.csprojResolveAssemblyReference.cache
+c:\users\dgraveli\documents\visual studio 2010\Projects\OrganizationAutomation\OrganizationAutomation\obj\Debug\OrganizationAutomation.Properties.Resources.resources
+c:\users\dgraveli\documents\visual studio 2010\Projects\OrganizationAutomation\OrganizationAutomation\obj\Debug\OrganizationAutomation.WorkspaceAddIn.resources
+c:\users\dgraveli\documents\visual studio 2010\Projects\OrganizationAutomation\OrganizationAutomation\obj\Debug\OrganizationAutomation.csproj.GenerateResource.Cache
+c:\users\dgraveli\documents\visual studio 2010\Projects\OrganizationAutomation\OrganizationAutomation\obj\Debug\OrganizationAutomation.dll
+c:\users\dgraveli\documents\visual studio 2010\Projects\OrganizationAutomation\OrganizationAutomation\obj\Debug\OrganizationAutomation.pdb
